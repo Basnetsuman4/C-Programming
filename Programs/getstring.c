@@ -1,3 +1,4 @@
+//Oeration of function gets and puts
 #include<stdio.h>
 #include<conio.h>
 
