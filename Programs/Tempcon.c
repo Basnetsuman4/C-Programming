@@ -10,4 +10,4 @@ int main()
     fahern =( (9 * clecius)/5 )+32 ;
     printf("\n\tThe temperature in Fahernheit is %f ", fahern);
     return 0;
-}
+} 
