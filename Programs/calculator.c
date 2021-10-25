@@ -33,7 +33,7 @@ int main()
             printf("\n\tEnter the two numbers : ");
             scanf("%f%f", &a,&b);
 
-            ope = a-b;
+            ope = a-b ;
             printf("\n\tThe difference of the entered number is %f",ope);
         }
         break;
